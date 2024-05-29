@@ -1,0 +1,16 @@
+.header-interect-text{
+margin: 235px 276px 0 276px;
+display: flex;
+justify-content: space-between;
+}
+.header-interect-stext{
+    margin: 16px 420px 0 420px;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+.header-interect-btn{
+    margin: 43px 567px 0 567px;
+    display: flex;
+    justify-content: space-between;
+}
