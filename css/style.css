@@ -1,16 +1,44 @@
+.header-interect{
+    background-image: url("/img/bg-fstr.jpg");
+    background-position: left center;
+    background-size: 100% ;
+    height: 648px;
+    display: grid;
+    place-items: center;
+}
 .header-interect-text{
-margin: 235px 276px 0 276px;
+margin: 0 276px;
+padding: 235px 0 0 0 ;
 display: flex;
 justify-content: space-between;
+font-size: 50px;
+color: #FAFAF9;
 }
-.header-interect-stext{
-    margin: 16px 420px 0 420px;
+.header-interect-smaltext{
+    margin: ;
     display: flex;
     justify-content: space-between;
-    background-color: gray;
+    font-size: 16px;
+    color: #FAFAF9;
 }
 .header-interect-btn{
-    margin: 43px 567px 0 567px;
     display: flex;
+    margin : 43px 0 0 0;
     justify-content: space-between;
+    background-color:#DB4E66;
+    color: white;
+    padding: 18px 92px;
+}
+.header-1{
+    background-image: url(/img/instagram.png);
+    background-size: 49px;
+}
+.header-2{
+    background-image: url(/img/whatsapp.png)
+}
+.header-3{
+    background-image: url(/img/viber.png)
+}
+.header-4{
+    background-image: url(/img/telegram.png)
 }
